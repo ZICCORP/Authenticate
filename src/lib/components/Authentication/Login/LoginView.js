@@ -14,11 +14,11 @@ import { useFormik } from 'formik';
 import GoogleButton from 'react-google-button';
 
 // internal imports
-import { handleClickShowPassword, handleMouseDownPassword } from '../../../utilityFunctions';
-import { useUserAuth } from '../../../context/UserAuthContext';
+import { useUserAuth } from "../../context/UserAuthContext"
+import { handleClickShowPassword, handleMouseDownPassword } from '../../utilityFunctions';
 
 //  styles import
-import { paperStyle, btnStyleLogin, createNewAccount_btn_style, createNewAccount_link_style, forgotten_account_link_style, dividerStyle } from '../../../Styles';
+import { paperStyle, btnStyleLogin, createNewAccount_btn_style, createNewAccount_link_style, forgotten_account_link_style, dividerStyle } from '../../Styles';
 
 
 

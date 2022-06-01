@@ -9,7 +9,7 @@ var _react = _interopRequireDefault(require("react"));
 
 var _reactRouterDom = require("react-router-dom");
 
-var _UserAuthContext = require("../../context/UserAuthContext");
+var _UserAuthContext = require("../../components/context/UserAuthContext");
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 

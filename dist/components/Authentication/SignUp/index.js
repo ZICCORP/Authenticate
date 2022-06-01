@@ -11,7 +11,7 @@ var _SignUpMobileView = _interopRequireDefault(require("./SignUpMobileView"));
 
 var _SignUpDeskTopView = _interopRequireDefault(require("./SignUpDeskTopView"));
 
-var _UserAuthContext = require("../../../context/UserAuthContext");
+var _UserAuthContext = require("../../context/UserAuthContext");
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 

@@ -11,7 +11,7 @@ var _material = require("@mui/material");
 
 var _LoginView = _interopRequireDefault(require("./LoginView"));
 
-var _Styles = require("../../../Styles");
+var _Styles = require("../../Styles");
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 

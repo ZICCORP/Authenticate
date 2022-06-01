@@ -13,10 +13,10 @@ import { collection, addDoc } from "firebase/firestore";
 
 
 // Internal imports
-import { handleClickShowPassword, handleMouseDownPassword, validate } from '../../../utilityFunctions';
-import { desktop_signup_grid_style, desktop_mobile_signup_btnStyle, desktop_signup_paperStyle, signup_logo_style, create_new_account_text_style, its_quick_and_easy_text_style, signup_form_style, signup_textfield_style, already_have_account_Link_style } from '../../../Styles';
-import { useUserAuth } from '../../../context/UserAuthContext';
-import { db } from "../../../../../src/firebase";
+import { handleClickShowPassword, handleMouseDownPassword, validate } from '../../utilityFunctions';
+import { desktop_signup_grid_style, desktop_mobile_signup_btnStyle, desktop_signup_paperStyle, signup_logo_style, create_new_account_text_style, its_quick_and_easy_text_style, signup_form_style, signup_textfield_style, already_have_account_Link_style } from '../../Styles';
+import { useUserAuth } from '../../context/UserAuthContext';
+import { db } from "../../../../../../src/firebase";
 
 
 

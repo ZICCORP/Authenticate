@@ -5,7 +5,7 @@ import React from 'react';
 // import { useGlobalContext } from '../../App';
 import SignUpMobileView from './SignUpMobileView';
 import SignUpDeskTopView from './SignUpDeskTopView';
-import { useUserAuth } from '../../../context/UserAuthContext';
+import { useUserAuth } from '../../context/UserAuthContext';
 
 
 

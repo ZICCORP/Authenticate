@@ -8,7 +8,7 @@ import { Grid } from '@mui/material';
 
 import LoginView from './LoginView';
 //  styles imports
-import { gridStyle } from '../../../Styles';
+import { gridStyle } from '../../Styles';
 
 
 

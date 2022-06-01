@@ -29,13 +29,13 @@ var _formik = require("formik");
 
 var _firestore = require("firebase/firestore");
 
-var _utilityFunctions = require("../../../utilityFunctions");
+var _utilityFunctions = require("../../utilityFunctions");
 
-var _Styles = require("../../../Styles");
+var _Styles = require("../../Styles");
 
-var _UserAuthContext = require("../../../context/UserAuthContext");
+var _UserAuthContext = require("../../context/UserAuthContext");
 
-var _firebase = require("../../../../../src/firebase");
+var _firebase = require("../../../../../../src/firebase");
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 

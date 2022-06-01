@@ -37,11 +37,11 @@ var _formik = require("formik");
 
 var _reactGoogleButton = _interopRequireDefault(require("react-google-button"));
 
-var _utilityFunctions = require("../../../utilityFunctions");
+var _UserAuthContext = require("../../context/UserAuthContext");
 
-var _UserAuthContext = require("../../../context/UserAuthContext");
+var _utilityFunctions = require("../../utilityFunctions");
 
-var _Styles = require("../../../Styles");
+var _Styles = require("../../Styles");
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 

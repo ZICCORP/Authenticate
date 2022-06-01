@@ -14,8 +14,7 @@ import { collection, addDoc } from "firebase/firestore";
 // Internal imports
 import { handleMouseDownPassword, handleClickShowPassword, validate } from '../../../utilityFunctions';
 import { useUserAuth } from '../../../context/UserAuthContext';
-import { db } from '../../../firebase';
-
+import { db } from "../../../../../src/firebase"
 
 // styles imports
 import { desktop_mobile_signup_btnStyle, mobile_signup_paperStyle, mobile_signup_box_style, already_have_account_Link_style, mobile_signup_textfield } from '../../../Styles';
